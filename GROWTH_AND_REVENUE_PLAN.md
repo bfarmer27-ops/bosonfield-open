@@ -49,7 +49,7 @@ Start Day 1 after YouTube, Instagram, and one short-video account are live. The 
 11. Day 11 Publish a license/provenance explainer and an AI disclosure example; check whether trust content produces saves and qualified comments without depressing completion.
 12. Day 12 Test 20-30 second short versus 40-60 second short for the same fix; keep the winner only if completion and profile/repo actions both improve.
 13. Day 13 Ask the community to vote on the next model/lesson, then deliver the top choice as a live/recorded build; count votes-to-attendance and votes-to-contributor conversion.
-14. Day 14 Freeze a scorecard: rank hooks, topics, lengths, CTAs, and platforms by qualified activation per founder hour; select two repeatable formats, kill two weak formats, and publish the next 30-day backlog.
+14. Day 14 Freeze a scorecard: rank hooks, topics, lengths, CTAs, and platforms by qualified activation per founder hour; select two repeatable formats, stop two weak formats, and publish the next 30-day backlog.
 
 ## Community system
 
@@ -75,8 +75,8 @@ Start Day 1 after YouTube, Instagram, and one short-video account are live. The 
 
 ## 90-day scorecard — targets, not promises
 
-- Production capacity: by Day 14 publish 6 long lessons, 10 short videos, 6 build posts, 2 rules-approved Reddit help posts, 1 GitHub starter release, and 2 GitHub Discussions help clinics. By Day 90 target 24 long lessons, 60 short videos, 6 releases, 12 repo or demo updates, and 12 help sessions.
-- Content quality [H targets, not guarantees]: median long-form 30-second retention >=60%, median short completion >=25%, and saves/shares >=2% of reach by Day 30; improve one variable at a time.
+- Production capacity: by Day 14 publish 4 long lessons, 10 short videos, 6 build posts, 2 rules-approved Reddit help posts, 1 GitHub starter release, and 2 GitHub Discussions help clinics. By Day 90 target 24 long lessons, 60 short videos, 6 releases, 12 repo or demo updates, and 12 help sessions.
+- Content quality targets, not guarantees: median long-form 30-second retention >=60%, median short completion >=25%, and saves/shares >=2% of reach by Day 30; improve one variable at a time.
 - Qualified acquisition: by Day 30 target 300 combined repo and demo visits and 75 people who download, ask a real question, or post a result; by Day 90 target 2,000 qualified visits and 300 active learners. Qualified means a download, first-render report, useful message, issue, or contribution—not a raw impression.
 - Community health: at least 50% of beginner help threads receive a useful answer within 24 hours and at least 2 member results are shared each week by Day 30. If Discord later opens, measure active members there separately.
 - Open-source activation: by Day 30 target 100 GitHub stars, 10 unique issue/PR/discussion contributors, and 20 documented first renders; by Day 90 target 500 stars, 30 unique contributors, and 100 documented first renders. Treat stars as secondary to activation.
