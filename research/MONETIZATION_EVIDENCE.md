@@ -199,7 +199,7 @@ No payout-per-view estimate is used. Pay changes with audience location, ads, qu
 
 ### 1. Build the owned funnel immediately
 
-- Target: Publish original beginner-focused AI-video lessons and reproducible HunyuanVideo, Wan, ComfyUI and open-source workflows; place a single support hub in every profile and video description.
+- Target: Publish original beginner-focused AI-video lessons and reproducible Wan, ComfyUI, and other license-cleared workflows; place a single support hub in every profile and video description.
 - Money path: Patreon memberships, GitHub Sponsors for maintained repositories, Open Collective for transparent project funding, direct sponsorships, affiliate links and paid digital workflow packs.
 - Why: These paths do not require platform-scale views or ad-program thresholds and convert a global audience into durable community support.
 
