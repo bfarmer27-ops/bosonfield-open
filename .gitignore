@@ -1,0 +1,14 @@
+# Build notes
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+credentials/
+.DS_Store
+Thumbs.db
+qa/
+brand/logo-candidates.png
+brand/logo-a-contours-1024.png
+brand/logo-b-nodes-1024.png
+brand/logo-c-waves-1024.png

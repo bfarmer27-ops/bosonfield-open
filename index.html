@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="BosonField Open turns free and openly licensed AI-video tools into clear beginner lessons, tested workflows, and community-built software.">
+  <meta name="theme-color" content="#070A12">
+  <meta property="og:title" content="BosonField Open">
+  <meta property="og:description" content="Open-source AI video, made usable.">
+  <meta property="og:image" content="brand/banner-1500x500.png">
+  <title>BosonField Open — open-source AI video, made usable</title>
+  <style>
+    :root {
+      --ink:#070a12; --panel:#101528; --panel2:#151c35; --text:#f7f9ff;
+      --muted:#a9b5d0; --cyan:#37e6ff; --violet:#8d6bff; --mint:#63ffd1;
+      --line:rgba(169,181,208,.20); --max:1160px;
+    }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body {
+      margin:0; color:var(--text); background:
+        radial-gradient(circle at 15% 12%, rgba(55,230,255,.10), transparent 24rem),
+        radial-gradient(circle at 82% 18%, rgba(141,107,255,.12), transparent 28rem),
+        var(--ink);
+      font-family:"Segoe UI",system-ui,-apple-system,sans-serif; line-height:1.55;
+    }
+    a { color:inherit; }
+    .wrap { width:min(var(--max), calc(100% - 40px)); margin:auto; }
+    nav { display:flex; align-items:center; justify-content:space-between; padding:22px 0; }
+    .brand { display:flex; align-items:center; gap:12px; text-decoration:none; font-weight:750; letter-spacing:-.02em; }
+    .brand img { width:42px; height:42px; border-radius:13px; }
+    .navlinks { display:flex; gap:22px; color:var(--muted); font-size:14px; }
+    .navlinks a { text-decoration:none; }
+    .navlinks a:hover,.navlinks a:focus-visible { color:var(--text); }
+    .hero { min-height:680px; display:grid; grid-template-columns:1.12fr .88fr; align-items:center; gap:64px; padding:70px 0 100px; }
+    .eyebrow { color:var(--cyan); font-weight:750; letter-spacing:.12em; text-transform:uppercase; font-size:13px; }
+    h1 { font-size:clamp(52px,8vw,94px); line-height:.98; letter-spacing:-.055em; margin:18px 0 26px; max-width:850px; }
+    .lede { color:var(--muted); font-size:clamp(19px,2.3vw,26px); max-width:720px; }
+    .actions { display:flex; flex-wrap:wrap; gap:12px; margin-top:34px; }
+    .button { display:inline-flex; align-items:center; justify-content:center; min-height:50px; padding:0 22px; border-radius:15px; border:1px solid var(--line); text-decoration:none; font-weight:700; }
+    .button.primary { color:var(--ink); background:var(--cyan); border-color:var(--cyan); }
+    .button.secondary { background:rgba(16,21,40,.68); }
+    .button:hover,.button:focus-visible { transform:translateY(-1px); box-shadow:0 12px 36px rgba(55,230,255,.12); }
+    .mark { width:100%; aspect-ratio:1; object-fit:contain; filter:drop-shadow(0 26px 70px rgba(55,230,255,.10)); }
+    section { padding:96px 0; border-top:1px solid var(--line); }
+    h2 { font-size:clamp(36px,5vw,58px); line-height:1.05; letter-spacing:-.04em; margin:0 0 20px; }
+    .section-intro { color:var(--muted); font-size:20px; max-width:760px; margin:0 0 38px; }
+    .grid { display:grid; grid-template-columns:repeat(3,1fr); gap:18px; }
+    .card { background:linear-gradient(145deg,rgba(21,28,53,.86),rgba(16,21,40,.65)); border:1px solid var(--line); border-radius:22px; padding:28px; min-height:240px; }
+    .number { width:38px; height:38px; display:grid; place-items:center; border:1px solid rgba(55,230,255,.45); border-radius:12px; color:var(--cyan); font-weight:800; }
+    .card h3 { font-size:22px; margin:24px 0 10px; }
+    .card p { color:var(--muted); margin:0; }
+    .proof { display:grid; grid-template-columns:1fr 1fr; gap:18px; }
+    .proof .card { min-height:unset; }
+    .pill { display:inline-flex; border:1px solid var(--line); border-radius:999px; padding:7px 11px; color:var(--muted); font-size:13px; margin:4px 4px 0 0; }
+    .callout { padding:38px; border-radius:26px; border:1px solid rgba(99,255,209,.28); background:linear-gradient(125deg,rgba(99,255,209,.08),rgba(55,230,255,.04)); }
+    .callout strong { color:var(--mint); }
+    footer { color:var(--muted); padding:46px 0 60px; font-size:14px; display:flex; justify-content:space-between; gap:20px; border-top:1px solid var(--line); }
+    @media (max-width:820px) {
+      .hero { grid-template-columns:1fr; min-height:auto; padding:20px 0 64px; gap:24px; }
+      .hero .mark { width:min(220px,64%); margin:0 auto; order:-1; }
+      h1 { font-size:48px; margin:12px 0 18px; }
+      .lede { font-size:18px; }
+      .actions { margin-top:22px; }
+      .grid,.proof { grid-template-columns:1fr; }
+      .navlinks { display:none; }
+      section { padding:72px 0; }
+      footer { flex-direction:column; }
+    }
+    @media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } .button:hover { transform:none; } }
+  </style>
+</head>
+<body>
+  <header class="wrap">
+    <nav aria-label="Main navigation">
+      <a class="brand" href="#top"><img src="brand/avatar-400.png" alt="BosonField Open contour mark"><span>BosonField Open</span></a>
+      <div class="navlinks"><a href="#work">What we build</a><a href="#proof">Proof rules</a><a href="#join">Join</a></div>
+    </nav>
+  </header>
+
+  <main id="top">
+    <div class="wrap hero">
+      <div>
+        <div class="eyebrow">Free tools · clear lessons · shared workflows</div>
+        <h1>Open-source AI video, made usable.</h1>
+        <p class="lede">BosonField Open helps a first-time creator install the right tool, make one real video, fix common errors, and share what worked.</p>
+        <div class="actions">
+          <a class="button primary" href="https://github.com/bfarmer27-ops/bosonfield-open">Follow the public build</a>
+          <a class="button secondary" href="#work">See the first releases</a>
+        </div>
+      </div>
+      <img class="mark" src="brand/mark-transparent-1024.png" alt="Seven cyan and violet open contours around one bright point">
+    </div>
+
+    <section id="work"><div class="wrap">
+      <div class="eyebrow">What we build</div>
+      <h2>A clear path from install to finished clip.</h2>
+      <p class="section-intro">Every release must remove one real beginner problem. The first set will cover choosing a model, checking hardware, installing a workflow, and proving the result.</p>
+      <div class="grid">
+        <article class="card"><div class="number">01</div><h3>License map</h3><p>Exact model terms, allowed places, business-use limits, and the official source checked that day.</p></article>
+        <article class="card"><div class="number">02</div><h3>Hardware checker</h3><p>A local check that names the GPU, video memory, system memory, disk space, and workflows that fit.</p></article>
+        <article class="card"><div class="number">03</div><h3>Workflow packs</h3><p>Versioned files, sample inputs, settings, expected run time, output size, and a repair path for each known error.</p></article>
+      </div>
+    </div></section>
+
+    <section id="proof"><div class="wrap">
+      <div class="eyebrow">Proof rules</div>
+      <h2>No hidden steps.</h2>
+      <p class="section-intro">A tutorial is not complete until another beginner can follow it and get the stated result.</p>
+      <div class="proof">
+        <article class="card"><h3>We show</h3><div><span class="pill">exact versions</span><span class="pill">real hardware</span><span class="pill">run time</span><span class="pill">memory use</span><span class="pill">input files</span><span class="pill">output proof</span></div></article>
+        <article class="card"><h3>We label</h3><div><span class="pill">model licenses</span><span class="pill">paid links</span><span class="pill">synthetic media</span><span class="pill">test limits</span><span class="pill">unknowns</span><span class="pill">changes</span></div></article>
+      </div>
+    </div></section>
+
+    <section id="join"><div class="wrap">
+      <div class="callout"><div class="eyebrow">Build with us</div><h2>Bring one test, one fix, or one clear lesson.</h2><p class="section-intro">The first community jobs are hardware reports, license checks, translated captions, and repairs to confusing steps.</p><a class="button primary" href="https://github.com/bfarmer27-ops/bosonfield-open">Open the GitHub project</a></div>
+    </div></section>
+  </main>
+
+  <footer class="wrap"><span>© 2026 BosonField Open contributors · Apache-2.0 code</span><span>Independent from Higgsfield, MiniMax, and the separate stale2000/bosonfield project.</span></footer>
+</body>
+</html>
