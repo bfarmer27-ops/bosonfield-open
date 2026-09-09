@@ -16,7 +16,7 @@ BosonField Open teaches beginners in Spain and the EU to make a repeatable local
 ## Content mix
 
 - First Render, No Guessing (45%): screen-recorded beginner outcomes, exact install, one success criterion, and a downloadable workflow.
-- Open Stack Showdown (15%): same prompt/shot across Wan, LTX-Video, HunyuanVideo, CogVideoX, and lightweight alternatives; report quality, speed, VRAM, license, and failure—not hype.
+- Open Stack Showdown (15%): use the same prompt and shot only across models whose current terms cover both Spain and the Dallas test machine. Show blocked models as license lessons, not as local renders. Report quality, speed, VRAM, license, and failure—not hype.
 - Creator Craft (15%): shot design, prompting, consistency, motion, editing, sound, and before/after breakdowns; the human creative decision is always visible.
 - Local/Low-Cost Lab (10%): CPU/free-tier/static-HF routes, quantization, VRAM triage, render-time and cost ledger; never imply that a free demo means free GPU at scale.
 - Build in Public + Remix (10%): weekly challenge, community showcase, bug diary, issue/PR walkthrough, and contributor credits.
@@ -33,6 +33,8 @@ BosonField Open teaches beginners in Spain and the EU to make a repeatable local
 - Open a public Discord only after 25 people have made a first render or asked for ongoing live help. Until then, one public GitHub Discussions home prevents an empty split community.
 
 ## 14-day launch test
+
+Start Day 1 after YouTube, Instagram, and one short-video account are live. The public repository and GitHub Discussions can collect questions before that date.
 
 1. Day 1 Publish the starter promise and baseline one vertical clip plus one 8-12 minute tutorial; log impressions, 3-second/30-second retention, average view duration, saves/shares, repo clicks, and discussion members.
 2. Day 2 Test result-first hook versus talking-head intro on two near-identical short edits; keep topic, length, and CTA constant.
@@ -67,16 +69,16 @@ BosonField Open teaches beginners in Spain and the EU to make a repeatable local
 - Primary payment rail enable GitHub Sponsors for one-time and monthly tiers; Spain is listed as a supported receiving region and personal-account sponsorships are described by GitHub as fee-free to the sponsored developer. Verify tax/VAT treatment with a Spanish gestor: https://docs.github.com/en/sponsors/getting-started-with-github-sponsors/about-github-sponsors.
 - Optional transparent collective use Open Source Collective/Open Collective only after checking eligibility and governance; it supports transparent contributions and financial infrastructure, but is not a claim of Spanish tax deductibility: https://opencollective.com/opensource.
 - Tier design €3/month Learner for thanks and roadmap vote, €10 Builder for monthly supporter update and credit, and €25 Maintainer for credits and a quarterly supporter call; all educational artifacts remain public and no guaranteed response-time perk is sold.
-- CTA placement soft 10-second spoken/onscreen CTA at the end of long videos, pinned repo/Discord message, and one monthly impact post; no donation CTA in every short and no guilt/scarcity language.
+- CTA placement soft 10-second spoken or on-screen CTA at the end of long videos, a pinned GitHub Discussion or later Discord message, and one monthly impact post; no donation CTA in every short and no guilt or scarcity language.
 - Measurement: tag source (YouTube, TikTok, Instagram, X, Reddit, Discord, GitHub, HF), track landing visits -> sponsor clicks -> completed sponsorships -> 30-day retention, and publish aggregate totals; do not expose donor identities without consent.
 - Compliance guardrail: disclose sponsorships/affiliate relationships, label synthetic media where platform rules require it, keep EU consumer/tax wording reviewed locally, and never call a sponsor payment a charitable tax deduction without verified legal basis.
 
 ## 90-day scorecard — targets, not promises
 
-- Production capacity: by Day 14 publish 6 long-form tutorials, 10 Shorts/Reels/TikToks minimum, 6 X threads/logs, 2 Reddit value posts, 1 GitHub starter release, 1 HF demo, 2 Discord clinics, and the supporting artifact bundle; by Day 90 target 24 long-form, 60 short-form, 6 major releases, 12 HF updates, and 12 live/office-hour sessions.
+- Production capacity: by Day 14 publish 6 long lessons, 10 short videos, 6 build posts, 2 rules-approved Reddit help posts, 1 GitHub starter release, and 2 GitHub Discussions help clinics. By Day 90 target 24 long lessons, 60 short videos, 6 releases, 12 repo or demo updates, and 12 help sessions.
 - Content quality [H targets, not guarantees]: median long-form 30-second retention >=60%, median short completion >=25%, and saves/shares >=2% of reach by Day 30; improve one variable at a time.
-- Qualified acquisition: by Day 30 target 300 combined repo/Space landing visits and 75 Discord joins; by Day 90 target 2,000 qualified landing visits and 300 joins. Qualified means a download, first-render report, useful message, issue, or contribution—not a raw impression.
-- Community health: weekly active Discord members >=25% of members by Day 30 and >=30% by Day 90, >=50% of beginner support threads receiving a helpful answer within 24 hours, and >=2 member showcases/week by Day 30.
+- Qualified acquisition: by Day 30 target 300 combined repo and demo visits and 75 people who download, ask a real question, or post a result; by Day 90 target 2,000 qualified visits and 300 active learners. Qualified means a download, first-render report, useful message, issue, or contribution—not a raw impression.
+- Community health: at least 50% of beginner help threads receive a useful answer within 24 hours and at least 2 member results are shared each week by Day 30. If Discord later opens, measure active members there separately.
 - Open-source activation: by Day 30 target 100 GitHub stars, 10 unique issue/PR/discussion contributors, and 20 documented first renders; by Day 90 target 500 stars, 30 unique contributors, and 100 documented first renders. Treat stars as secondary to activation.
 - HF utility: track Space visits, successful runs, downloads/clones, duplicate setup questions, and card completeness; target 500 qualified Space/model visits and >=10 user feedback reports by Day 90, not vanity likes.
 - Conversion: by Day 30 establish baseline; by Day 90 target 2% of owned-content landing visitors clicking Sponsor and 1% completing a sponsorship, with at least 20 recurring sponsors or €250 cumulative support as a stretch target. Targets are hypotheses, not benchmarks.
@@ -89,7 +91,7 @@ BosonField Open teaches beginners in Spain and the EU to make a repeatable local
 - If a short has strong views but <0.5% profile/repo action or no downstream activation across 10 posts, keep only as awareness and stop allocating prime production time; shift to tutorial/result hybrids.
 - If long-form 30-second retention is <45% on five posts, cut intros to the result, add a chapter/visual proof, and retest; if >=60% but landing activation is weak, fix title/thumbnail/CTA/artifact before changing topic.
 - If a topic generates >=2x the 14-day median qualified activation with equal or lower production time, make it a weekly series; if it produces repeated safety/license confusion, pause until documentation is fixed.
-- If Discord weekly active rate is <15% for three consecutive weeks, stop adding channels/events, consolidate around one challenge and one clinic, and reassess after 14 days.
+- If Discord later opens and its weekly active rate is below 15% for three straight weeks, stop adding rooms and events, keep one challenge and one clinic, and recheck after 14 days.
 - If support response exceeds 48 hours or the founder spends >5 hours/week on repetitive setup, freeze new model coverage and convert the top 10 questions into tested FAQ/checklist automation.
 - If a Reddit moderator removes a post or users flag promotion, stop posting there, read current rules, remove the CTA, and ask moderators for the allowed educational format; never repost unchanged.
 - If any platform flags synthetic-media disclosure, spam, commercial content, or copyright, comply immediately, preserve an internal incident note, and do not appeal with a false claim. YouTube's official monetization policy rejects mass-produced/inauthentic content and its spam policy rejects artificial engagement: https://support.google.com/youtube/answer/1311392 and https://support.google.com/youtube/answer/2801973.
