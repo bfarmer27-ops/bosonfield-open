@@ -22,7 +22,7 @@ The license dated 2026-08-02 defines the European Union, United Kingdom, Republi
 
 - Public repository: https://github.com/bfarmer27-ops/bosonfield-open
 - Public site: https://bfarmer27-ops.github.io/bosonfield-open/
-- Public welcome discussion: https://github.com/bfarmer27-ops/bosonfield-open/discussions/1
+- Public welcome discussion: https://github.com/bfarmer27-ops/bosonfield-open/discussions/9
 
 ## Rules for the research folder
 

@@ -38,6 +38,6 @@ Free beginner guides and open-source tools for AI video. Tested workflows, clear
 
 1. Website: https://bfarmer27-ops.github.io/bosonfield-open/
 2. GitHub project: https://github.com/bfarmer27-ops/bosonfield-open
-3. Community: https://github.com/bfarmer27-ops/bosonfield-open/discussions/1
+3. Community: https://github.com/bfarmer27-ops/bosonfield-open/discussions/9
 
 Do not publish a donation link until the page names the exact use of funds, fees, payout owner, and monthly proof report.
