@@ -55,6 +55,7 @@ The added word “Open” is deliberate. A separate public GitHub project named 
 
 ## Plans and evidence
 
+- [90-day roadmap](ROADMAP.md)
 - [Growth and revenue plan](GROWTH_AND_REVENUE_PLAN.md)
 - [First 30 videos](CONTENT_PLAN.md)
 - [Social profile copy](SOCIAL_PROFILE_COPY.md)
