@@ -1,0 +1,237 @@
+{
+  "checked_utc": "2026-09-09T16:56:13Z",
+  "conflicts": [
+    {
+      "name": "Bosonfield MVP",
+      "kind": "direct product/project conflict",
+      "url": "https://github.com/stale2000/bosonfield",
+      "finding": "Public GitHub repository created 2026-07-27. Its README describes Bosonfield as a Higgsfield-inspired creative workspace covering image, video, audio, projects, presets, campaigns, community, and library surfaces. This is a strong same-name, same-category conflict.",
+      "confidence": "High"
+    },
+    {
+      "name": "BosonField",
+      "kind": "GitHub naming",
+      "url": "https://api.github.com/users/BosonField",
+      "finding": "Exact GitHub username endpoint returned HTTP 404, but the exact repository name already exists under stale2000. A near-match username, bosonfields, is active with public repositories.",
+      "confidence": "High"
+    },
+    {
+      "name": "@BosonField",
+      "kind": "social handle",
+      "url": "https://x.com/BosonField",
+      "finding": "Public X profile resolves to Miguel Martins (@Bosonfield), showing 0 followers and a May 2026 join date. Exact handle is occupied.",
+      "confidence": "High"
+    },
+    {
+      "name": "@bosonfield",
+      "kind": "social handle",
+      "url": "https://www.instagram.com/bosonfield/",
+      "finding": "Public Instagram profile is God Particle (@bosonfield), with 1 follower, 3 following, and 0 posts. Exact handle is occupied.",
+      "confidence": "High"
+    },
+    {
+      "name": "@BosonField",
+      "kind": "social handle",
+      "url": "https://www.youtube.com/@BosonField",
+      "finding": "URL resolves to an existing YouTube channel named _Bosonfield with channel ID UCYKXJuuKfMFQ-ExOrmGKiDQ. Exact URL/handle is occupied.",
+      "confidence": "High"
+    },
+    {
+      "name": "Boson Field",
+      "kind": "social handle",
+      "url": "https://www.facebook.com/bosonfield",
+      "finding": "Exact URL redirects to the public Boson Field profile at /boson.field. The exact requested path is therefore not cleanly available.",
+      "confidence": "Medium"
+    },
+    {
+      "name": "BosonField",
+      "kind": "Hugging Face naming",
+      "url": "https://huggingface.co/BosonField",
+      "finding": "Exact Hugging Face user page resolves to BosonField (Adrian). Exact namespace is occupied.",
+      "confidence": "High"
+    },
+    {
+      "name": "Boson",
+      "kind": "US trademark adjacency",
+      "url": "https://tmsearch.uspto.gov/",
+      "finding": "USPTO live search returned 38 records containing BOSON. Active examples include BOSON registered in IC 009 for IT training/test-preparation software, and other active BOSON marks in software, AI-adjacent, hardware, medical, and vehicle categories.",
+      "confidence": "High"
+    },
+    {
+      "name": "BOSON AI",
+      "kind": "US trademark adjacency",
+      "url": "https://tmsearch.uspto.gov/",
+      "finding": "USPTO live search returned BOSON AI, registration 8356432, active/registered in IC 042 for advanced product research and technology consultation in artificial intelligence, owned by Boson AI USA Inc.",
+      "confidence": "High"
+    },
+    {
+      "name": "HIGGSFIELD",
+      "kind": "US competitor/context mark",
+      "url": "https://tmsearch.uspto.gov/",
+      "finding": "USPTO live search returned HIGGSFIELD, registration 8134642, active/registered in IC 009 and IC 042 for AI-assisted photo/video editing and image/video content generation, owned by Higgsfield Inc. This is competitor context, not evidence that BosonField is confusingly similar.",
+      "confidence": "High"
+    },
+    {
+      "name": "BosonField",
+      "kind": "US exact trademark search",
+      "url": "https://tmsearch.uspto.gov/prod-stage-v1-0-0/tmsearch",
+      "finding": "USPTO live Elastic search for exact BOSONFIELD and BOSON FIELD wordmark terms returned zero records. This is a preliminary exact-word result, not a full clearance search.",
+      "confidence": "High"
+    },
+    {
+      "name": "BosonField",
+      "kind": "EU trademark registry check",
+      "url": "https://euipo.europa.eu/eSearch/#basic/1+1+1+1/Bosonfield",
+      "finding": "EUIPO eSearch and its public configuration endpoint were reachable, but the live search response was not returned reliably by the public endpoint during this check. No conclusion about EU registrations should be drawn.",
+      "confidence": "Low"
+    },
+    {
+      "name": "BosonField",
+      "kind": "UK trademark registry check",
+      "url": "https://trademarks.ipo.gov.uk/ipo-tmtext",
+      "finding": "The official UK IPO trademark search endpoint returned HTTP 403 to the public automated request. No conclusion about UK registrations should be drawn.",
+      "confidence": "Low"
+    },
+    {
+      "name": "BosonField",
+      "kind": "public web search",
+      "url": "https://www.bing.com/search?q=%22BosonField%22",
+      "finding": "Exact public web searching surfaced the direct GitHub Bosonfield project and occupied social/profile pages; no established standalone BosonField business domain was found.",
+      "confidence": "Medium"
+    }
+  ],
+  "handles": [
+    {
+      "platform": "GitHub",
+      "preferred": "BosonField",
+      "status": "Exact user endpoint was not found publicly, but exact repository name is already occupied and the name is used by an AI creative project. Do not treat as clear.",
+      "url": "https://github.com/BosonField",
+      "alternatives": [
+        "bosonfield-ai",
+        "bosonfield-open",
+        "bosonfield-video"
+      ]
+    },
+    {
+      "platform": "X",
+      "preferred": "@BosonField",
+      "status": "Occupied by a public profile.",
+      "url": "https://x.com/BosonField",
+      "alternatives": [
+        "@BosonFieldAI",
+        "@BosonFieldOpen",
+        "@BosonFieldVideo"
+      ]
+    },
+    {
+      "platform": "Instagram",
+      "preferred": "@bosonfield",
+      "status": "Occupied by God Particle.",
+      "url": "https://www.instagram.com/bosonfield/",
+      "alternatives": [
+        "@bosonfieldai",
+        "@bosonfieldopen",
+        "@bosonfieldvideo"
+      ]
+    },
+    {
+      "platform": "YouTube",
+      "preferred": "@BosonField",
+      "status": "Occupied; resolves to the existing _Bosonfield channel.",
+      "url": "https://www.youtube.com/@BosonField",
+      "alternatives": [
+        "@BosonFieldAI",
+        "@BosonFieldOpen",
+        "@BosonFieldVideo"
+      ]
+    },
+    {
+      "platform": "Facebook",
+      "preferred": "bosonfield",
+      "status": "Exact URL redirects to an occupied Boson Field profile at boson.field.",
+      "url": "https://www.facebook.com/bosonfield",
+      "alternatives": [
+        "bosonfieldai",
+        "bosonfieldopen",
+        "bosonfieldvideo"
+      ]
+    },
+    {
+      "platform": "Hugging Face",
+      "preferred": "BosonField",
+      "status": "Occupied by an existing user profile.",
+      "url": "https://huggingface.co/BosonField",
+      "alternatives": [
+        "BosonFieldAI",
+        "BosonFieldOpen",
+        "BosonFieldVideo"
+      ]
+    },
+    {
+      "platform": "TikTok",
+      "preferred": "@bosonfield",
+      "status": "Inconclusive: public URL returned TikTok's bot/not-found shell rather than a readable profile. Do not treat as available without manual confirmation.",
+      "url": "https://www.tiktok.com/@bosonfield",
+      "alternatives": [
+        "@bosonfieldai",
+        "@bosonfieldopen",
+        "@bosonfieldvideo"
+      ]
+    },
+    {
+      "platform": "LinkedIn",
+      "preferred": "bosonfield",
+      "status": "No public company page was returned at the exact URL; provisional only because LinkedIn visibility and search indexing are incomplete.",
+      "url": "https://www.linkedin.com/company/bosonfield/",
+      "alternatives": [
+        "bosonfield-ai",
+        "bosonfield-open",
+        "bosonfield-video"
+      ]
+    }
+  ],
+  "domains": [
+    {
+      "domain": "bosonfield.com",
+      "status": "Appears unregistered by RDAP",
+      "evidence": "Verisign RDAP returned HTTP 404/no RDAP object: https://rdap.verisign.com/com/v1/domain/BOSONFIELD.COM"
+    },
+    {
+      "domain": "bosonfield.ai",
+      "status": "Appears unregistered by RDAP",
+      "evidence": "Identity Digital RDAP returned HTTP 404/no RDAP object: https://rdap.identitydigital.services/rdap/domain/bosonfield.ai"
+    },
+    {
+      "domain": "bosonfield.dev",
+      "status": "Appears unregistered by RDAP",
+      "evidence": "Google Registry RDAP returned HTTP 404/no RDAP object: https://pubapi.registry.google/rdap/domain/bosonfield.dev"
+    },
+    {
+      "domain": "bosonfield.video",
+      "status": "Appears unregistered by RDAP",
+      "evidence": "Identity Digital RDAP returned HTTP 404/no RDAP object: https://rdap.identitydigital.services/rdap/domain/bosonfield.video"
+    },
+    {
+      "domain": "bosonfield.tools",
+      "status": "Appears unregistered by RDAP",
+      "evidence": "Identity Digital RDAP returned HTTP 404/no RDAP object: https://rdap.identitydigital.services/rdap/domain/bosonfield.tools"
+    },
+    {
+      "domain": "bosonfield.studio",
+      "status": "Appears unregistered by RDAP",
+      "evidence": "Identity Digital RDAP returned HTTP 404/no RDAP object: https://rdap.identitydigital.services/rdap/domain/bosonfield.studio"
+    },
+    {
+      "domain": "bosonfieldopen.com",
+      "status": "Appears unregistered by RDAP",
+      "evidence": "Verisign RDAP returned HTTP 404/no RDAP object: https://rdap.verisign.com/com/v1/domain/BOSONFIELDOPEN.COM"
+    },
+    {
+      "domain": "bosonfieldvideo.com",
+      "status": "Appears unregistered by RDAP",
+      "evidence": "Verisign RDAP returned HTTP 404/no RDAP object: https://rdap.verisign.com/com/v1/domain/BOSONFIELDVIDEO.COM"
+    }
+  ],
+  "recommendation": "Bare BosonField is not a clean identity: an existing same-category GitHub AI creative project is the strongest conflict, and several exact social handles are occupied. First verify whether the GitHub project is controlled by Ryan; if not, prefer a differentiated identity such as BosonFieldAI or BosonFieldOpen and reserve the same variant consistently across platforms. The strongest domain candidates from the RDAP checks are bosonfield.ai, bosonfield.video, bosonfield.dev, and bosonfield.tools, subject to registrar checkout confirmation. If retaining the bare name, obtain permission or assess the risk of coexistence with the existing project before launch.",
+  "legal_caveat": "Formal legal clearance is not the same as web search. RDAP 404s, social-profile checks, and preliminary registry queries do not prove trademark or domain availability. A qualified trademark professional should search exact, phonetic, design, common-law, and related marks across the US, EU, UK, and relevant Nice classes. The EUIPO and UK IPO live checks were technically inconclusive here, so they require manual follow-up."
+}

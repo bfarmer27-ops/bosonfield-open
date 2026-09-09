@@ -1,0 +1,56 @@
+name: Hardware result
+description: Share one tested AI-video run without private data.
+title: "Hardware: "
+labels:
+  - hardware-report
+body:
+  - type: input
+    id: gpu
+    attributes:
+      label: GPU model and VRAM
+      description: VRAM is the memory on the graphics card.
+      placeholder: NVIDIA RTX 3060, 12 GB VRAM
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Operating system and RAM
+      placeholder: Windows 11, 32 GB RAM
+    validations:
+      required: true
+  - type: input
+    id: workflow
+    attributes:
+      label: Workflow, model, and exact versions
+      placeholder: ComfyUI commit or release, model name and version
+    validations:
+      required: true
+  - type: textarea
+    id: settings
+    attributes:
+      label: Settings used
+      placeholder: Width, height, frame count, steps, guidance, precision, and offload settings
+    validations:
+      required: true
+  - type: input
+    id: timing
+    attributes:
+      label: Run time
+      placeholder: 8 minutes 42 seconds
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Result and any repair
+      description: Say what worked, what failed, and the exact fix.
+    validations:
+      required: true
+  - type: checkboxes
+    id: public
+    attributes:
+      label: Public report check
+      options:
+        - label: I removed passwords, tokens, cookies, private media, and personal data.
+          required: true

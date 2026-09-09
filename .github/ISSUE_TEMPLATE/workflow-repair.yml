@@ -1,0 +1,46 @@
+name: Workflow repair
+description: Report one exact broken step or error.
+title: "Repair: "
+labels:
+  - workflow-repair
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Lesson or workflow link
+      placeholder: Paste the BosonField Open page, video, release, or file link.
+    validations:
+      required: true
+  - type: textarea
+    id: step
+    attributes:
+      label: Exact step that broke
+      description: Name the button, command, file, or numbered step.
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Exact error text
+      description: Paste the error after removing private paths, names, keys, and tokens.
+    validations:
+      required: true
+  - type: textarea
+    id: versions
+    attributes:
+      label: System and versions
+      placeholder: Windows 11; Python 3.11; ComfyUI commit; GPU model; VRAM
+    validations:
+      required: true
+  - type: textarea
+    id: attempts
+    attributes:
+      label: Repairs already tried
+      description: List the exact steps and what each step printed.
+  - type: checkboxes
+    id: public
+    attributes:
+      label: Public report check
+      options:
+        - label: I removed passwords, tokens, cookies, private media, and personal data.
+          required: true
