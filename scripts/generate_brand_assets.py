@@ -101,7 +101,7 @@ def save_candidates():
         board.paste(thumb,(x,30),thumb)
         label=name.split('-',1)[1].title()
         d.text((x+180,420),label,font=font(34,True),fill=WHITE,anchor="mm")
-    d.text((600,482),"BosonField Open — mark studies",font=font(26),fill=MUTED,anchor="mm")
+    d.text((600,482),"BosonField — mark studies",font=font(26),fill=MUTED,anchor="mm")
     board.save(OUT/"logo-candidates.png",optimize=True)
 
 
@@ -118,8 +118,7 @@ def save_selected():
     glow=field_mark(340,"contours",transparent=True)
     im.paste(glow,(225,80),glow)
     d.text((610,130),"BosonField",font=font(88,True),fill=WHITE)
-    d.text((612,232),"OPEN",font=font(28,True),fill=CYAN,stroke_width=1)
-    d.text((610,300),"Open-source AI video, made usable.",font=font(36),fill=MUTED)
+    d.text((610,265),"Open-source AI video, made usable.",font=font(36),fill=MUTED)
     im.save(OUT/"banner-1500x500.png",optimize=True)
 
     # YouTube banner. Every key item fits the 1546 x 423 center safe area:
@@ -128,8 +127,7 @@ def save_selected():
     glow=field_mark(370,"contours",transparent=True)
     yt.paste(glow,(610,532),glow)
     d.text((1040,555),"BosonField",font=font(102,True),fill=WHITE)
-    d.text((1044,670),"OPEN",font=font(31,True),fill=CYAN)
-    d.text((1040,742),"Free tools. Clear lessons. Shared workflows.",font=font(38),fill=MUTED)
+    d.text((1040,700),"Free tools. Clear lessons. Shared workflows.",font=font(38),fill=MUTED)
     d.rounded_rectangle((1040,825,1575,892),radius=28,outline=CYAN,width=3)
     d.text((1307,858),"BUILD WITH US",font=font(28,True),fill=WHITE,anchor="mm")
     yt.save(OUT/"youtube-banner-2560x1440.png",optimize=True)
@@ -139,7 +137,7 @@ def save_selected():
     m=field_mark(300,"contours",transparent=True)
     sq.paste(m,(70,65),m)
     d.text((80,410),"Make AI video\nwith free,\nopen tools.",font=font(78,True),fill=WHITE,spacing=10)
-    d.text((82,735),"BosonField Open",font=font(36,True),fill=CYAN)
+    d.text((82,735),"BosonField",font=font(36,True),fill=CYAN)
     d.text((82,800),"Free beginner lessons. Shared workflows.\nReal local hardware tests.",font=font(39),fill=MUTED,spacing=12)
     d.text((82,1000),"@bosonfieldopen",font=font(30,True),fill=WHITE)
     sq.save(OUT/"launch-card-1080.png",optimize=True)

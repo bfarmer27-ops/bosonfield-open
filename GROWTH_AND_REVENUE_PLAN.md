@@ -2,7 +2,7 @@
 
 ## One clear promise
 
-BosonField Open teaches beginners in Spain and the EU to make a repeatable local or free-tier AI-video clip. Every lesson shows the workflow, settings, model license, VRAM, run time, errors, repairs, and real output.
+BosonField teaches beginners in Spain and the EU to make a repeatable local or free-tier AI-video clip. Every lesson shows the workflow, settings, model license, VRAM, run time, errors, repairs, and real output.
 
 ## First audiences
 

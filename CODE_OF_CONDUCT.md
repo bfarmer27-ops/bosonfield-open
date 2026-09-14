@@ -1,6 +1,6 @@
 # Community rules
 
-BosonField Open is for people learning and building AI video tools.
+BosonField is for people learning and building AI video tools.
 
 ## Required conduct
 

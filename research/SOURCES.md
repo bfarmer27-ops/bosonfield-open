@@ -16,13 +16,13 @@ Checked on 2026-09-09. Recheck before each public claim because pages and licens
 - Official model page: https://huggingface.co/MiniMaxAI/MiniMax-H3
 - Official license file: https://huggingface.co/MiniMaxAI/MiniMax-H3/blob/main/LICENSE
 
-The license dated 2026-08-02 defines the European Union, United Kingdom, Republic of Korea, and United States as “Excluded Territories.” BosonField Open must not run, distribute, or build a tutorial workflow around H3 from Spain or the Dallas host unless MiniMax publishes new terms that permit those places. A news or license-reading lesson can quote short parts with a link; it must not ship the model or a runnable H3 pack.
+The license dated 2026-08-02 defines the European Union, United Kingdom, Republic of Korea, and United States as “Excluded Territories.” BosonField must not run, distribute, or build a tutorial workflow around H3 from Spain or the Dallas host unless MiniMax publishes new terms that permit those places. A news or license-reading lesson can quote short parts with a link; it must not ship the model or a runnable H3 pack.
 
-## BosonField Open live proof
+## BosonField live proof
 
-- Public repository: https://github.com/bfarmer27-ops/bosonfield-open
-- Public site: https://bfarmer27-ops.github.io/bosonfield-open/
-- Public welcome discussion: https://github.com/bfarmer27-ops/bosonfield-open/discussions/9
+- Public repository: https://github.com/bfarmer27-ops/bosonfield
+- Public site: https://bfarmer27-ops.github.io/bosonfield/
+- Public welcome discussion: https://github.com/bfarmer27-ops/bosonfield/discussions/9
 
 ## Rules for the research folder
 

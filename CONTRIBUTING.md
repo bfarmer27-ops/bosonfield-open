@@ -1,6 +1,6 @@
-# Contributing to BosonField Open
+# Contributing to BosonField
 
-BosonField Open accepts small, testable changes.
+BosonField accepts small, testable changes.
 
 ## Good first contributions
 

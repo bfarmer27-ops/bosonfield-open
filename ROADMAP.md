@@ -1,4 +1,4 @@
-# BosonField Open Roadmap
+# BosonField Roadmap
 
 Target: **v0.1 — First Open Creator Lab**, due **8 December 2026**.
 

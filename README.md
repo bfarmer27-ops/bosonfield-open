@@ -1,8 +1,8 @@
-# BosonField Open
+# BosonField
 
 **Open-source AI video, made usable.**
 
-BosonField Open will turn free and openly licensed AI-video tools into beginner lessons, tested workflows, and community-built software. The goal is not to copy Higgsfield. The goal is to build an independent, inspectable path that creators can run, learn from, and improve.
+BosonField will turn free and openly licensed AI-video tools into beginner lessons, tested workflows, and community-built software. The goal is not to copy Higgsfield. The goal is to build an independent, inspectable path that creators can run, learn from, and improve.
 
 ## What ships first
 
@@ -38,20 +38,20 @@ Official Wan2.1 source: <https://github.com/Wan-Video/Wan2.1>
 - No training data or upload is collected without a clear opt-in.
 - Synthetic media is labeled when a platform requires it or when a reasonable viewer could mistake it for a real event.
 
-## Working public name
+## Locked public name
 
-- Display name: **BosonField Open**
+- Display name: **BosonField**
 - Main handle target: **@bosonfieldopen**
 - Short bio: **Open-source AI video. Free beginner guides. Tested workflows. Build with us.**
 
-The added word “Open” is deliberate. A separate public GitHub project named `stale2000/bosonfield`, a live `bosonfield.vercel.app` site, Instagram `@bosonfield`, and X `@Bosonfield` already existed when checked on 9 September 2026. BosonField Open is an independent project and is not affiliated with those accounts, MiniMax, or Higgsfield.
+The display name is locked to Ryan's exact requested name, **BosonField**. A service may use **@bosonfieldopen** only as a unique username fallback. A username collision is not permission to change the business name. A separate public GitHub project named `stale2000/bosonfield`, a live `bosonfield.vercel.app` site, Instagram `@bosonfield`, and X `@Bosonfield` already existed when checked on 9 September 2026. BosonField is independent and is not affiliated with those accounts, MiniMax, or Higgsfield.
 
 ## Live project
 
-- Website: <https://bfarmer27-ops.github.io/bosonfield-open/>
-- Code and public work: <https://github.com/bfarmer27-ops/bosonfield-open>
-- Beginner questions and member results: <https://github.com/bfarmer27-ops/bosonfield-open/discussions>
-- 90-day work list: <https://github.com/bfarmer27-ops/bosonfield-open/milestone/1>
+- Website: <https://bfarmer27-ops.github.io/bosonfield/>
+- Code and public work: <https://github.com/bfarmer27-ops/bosonfield>
+- Beginner questions and member results: <https://github.com/bfarmer27-ops/bosonfield/discussions>
+- 90-day work list: <https://github.com/bfarmer27-ops/bosonfield/milestone/1>
 
 ## Plans and evidence
 
@@ -73,4 +73,4 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md
 
 ## License
 
-BosonField Open code and original documentation in this repository are licensed under Apache License 2.0. Model weights, third-party workflows, names, and media keep their own terms.
+BosonField code and original documentation in this repository are licensed under Apache License 2.0. Model weights, third-party workflows, names, and media keep their own terms.

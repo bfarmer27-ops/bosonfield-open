@@ -31,4 +31,4 @@ Each full lesson must show the real output, exact versions, model license, GPU a
 27. Every File Behind This Tutorial: Prompt, Seed, Versions, and License
 28. AI Video Rights in Plain Words: Consent, Copyright, and Disclosure
 29. The 14-Day Open Video Challenge: Member Results
-30. BosonField Open: 90-Day Build, Starter Kit, and How to Help
+30. BosonField: 90-Day Build, Starter Kit, and How to Help

@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Ask a beginner question
-    url: https://github.com/bfarmer27-ops/bosonfield-open/discussions/categories/q-a
+    url: https://github.com/bfarmer27-ops/bosonfield/discussions/categories/q-a
     about: Ask for help in public Q&A so the answer can improve a lesson.
   - name: Share a finished result
-    url: https://github.com/bfarmer27-ops/bosonfield-open/discussions/categories/show-and-tell
+    url: https://github.com/bfarmer27-ops/bosonfield/discussions/categories/show-and-tell
     about: Share what you made, the workflow version, and the hardware used.

@@ -1,0 +1,13 @@
+{
+  "schema": "bosonfield-brand-identity/v1",
+  "user_locked": true,
+  "display_name": "BosonField",
+  "fallback_handle": "bosonfieldopen",
+  "source": {
+    "platform": "discord",
+    "message_id": "1547285207453925566",
+    "date": "2026-09-09",
+    "exact_words": "Make the social profiles for, BosonField, that will be our competitor business name."
+  },
+  "rule": "A handle or URL may use a fallback when a service requires a unique value. The public display name stays exactly BosonField unless Ryan explicitly changes it."
+}

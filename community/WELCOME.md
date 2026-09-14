@@ -1,6 +1,6 @@
-# Welcome to BosonField Open
+# Welcome to BosonField
 
-BosonField Open is a public project for making free and openly licensed AI-video tools easier for first-time creators.
+BosonField is a public project for making free and openly licensed AI-video tools easier for first-time creators.
 
 ## Start here
 
@@ -30,4 +30,4 @@ State what you tested. State what you did not test. Help the person solve the na
 
 There is no donation link yet. We will add one only after it has a clear public budget, fee note, and monthly receipt report. The code and core beginner lessons will stay public.
 
-BosonField Open is independent. It is not affiliated with Higgsfield, MiniMax, or the separate `stale2000/bosonfield` project.
+BosonField is independent. It is not affiliated with Higgsfield, MiniMax, or the separate `stale2000/bosonfield` project.

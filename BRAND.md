@@ -2,10 +2,10 @@
 
 ## Name
 
-- Public display: **BosonField Open**
+- Public display: **BosonField**
 - Short display where space is tight: **BosonField**
 - Handle target: **@bosonfieldopen**
-- Say the words as written: **Boson Field Open**.
+- Say the words as written: **BosonField**.
 
 ## One-line promise
 
@@ -13,7 +13,7 @@
 
 ## Mission
 
-BosonField Open gives beginners free lessons, tested workflow files, honest hardware results, and open software for making AI video.
+BosonField gives beginners free lessons, tested workflow files, honest hardware results, and open software for making AI video.
 
 ## Voice
 
@@ -47,7 +47,7 @@ Open-source AI video for beginners. Free tutorials, tested workflows, honest har
 
 ### Launch caption
 
-AI video can be learned with free tools and shared files. BosonField Open will publish exact beginner lessons, tested workflows, hardware results, and license checks. The build starts in public.
+AI video can be learned with free tools and shared files. BosonField will publish exact beginner lessons, tested workflows, hardware results, and license checks. The build starts in public.
 
 ### Link text
 
@@ -55,4 +55,4 @@ Get the workflows, tests, and roadmap on GitHub.
 
 ## Independence line
 
-BosonField Open is independent. It is not affiliated with Higgsfield, MiniMax, or the separate `stale2000/bosonfield` project.
+BosonField is independent. It is not affiliated with Higgsfield, MiniMax, or the separate `stale2000/bosonfield` project.

@@ -15,7 +15,7 @@ Until a private reporting inbox is live, do not send exploit details or secrets.
 
 ## Scope
 
-Only BosonField Open code is in scope. Model behavior, third-party tools, hosting services, and social platforms must be reported to their owners.
+Only BosonField code is in scope. Model behavior, third-party tools, hosting services, and social platforms must be reported to their owners.
 
 ## Release rule
 
