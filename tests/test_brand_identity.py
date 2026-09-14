@@ -21,6 +21,14 @@ class BrandIdentityTests(unittest.TestCase):
         self.assertEqual(identity["display_name"], "BosonField")
         self.assertEqual(identity["fallback_handle"], "bosonfieldopen")
 
+    def test_identity_source_points_to_ryans_exact_discord_message(self):
+        identity = json.loads(IDENTITY.read_text(encoding="utf-8"))
+        self.assertEqual(identity["source"]["message_id"], "1547285220921835691")
+        self.assertEqual(
+            identity["source"]["exact_words"],
+            "Make the social profiles for, BosonField, that will be our competitor business name.",
+        )
+
     def test_old_unapproved_display_name_is_absent_from_public_text(self):
         forbidden = "BosonField" + " Open"
         hits = []
